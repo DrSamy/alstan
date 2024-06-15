@@ -1,9 +1,13 @@
 ---
-title: Hello, World!
+title: 'Hello, World!'
 ---
 
 ## Hello World!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
+![](/tableaux/far_away.jpg)
 
-Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec. Pellentesque ut aliquet ante, at tristique nunc. Donec non massa nibh. Ut posuere lacus non aliquam laoreet. Fusce pharetra ligula a felis porttitor, at mollis ipsum maximus. Donec quam tortor, vehicula a magna sit amet, tincidunt dictum enim. In hac habitasse platea dictumst. Mauris sit amet ornare ligula, blandit consequat risus. Duis malesuada pellentesque lectus, non feugiat turpis eleifend a. Nullam tempus ante et diam pretium, ac faucibus ligula interdum.
+13 décembre 1944 à Neuilly-sur-Seine, est un peintre russe, naturalisé allemand puis français.
+
+Considéré comme l’un des peintres les plus importants du XXe siècle, il est souvent considéré comme l’auteur de la première œuvre d'art abstrait de l'époque moderne, bien que des historiens d'art soupçonnent Kandinsky d'avoir antidaté cette aquarelle, qui leur semble ressembler à une esquisse de sa Composition VII, de 1913. Quoi qu'il en soit, la célébrité de Kandinsky est liée à son rejet progressif au cours de ces quelques années de tout élément figuratif dans sa peinture.
+
+Formé en économie politique par l'Université russe avant de se consacrer à la peinture, Kandinsky a écrit deux ouvrages de réflexions sur la peinture, traduits et réédités plusieurs fois. Il compose le premier vers 1910, alors qu'il animait le groupe Le Cavalier bleu, quelques années avant l'exposition de ses premières œuvres non figuratives ; à la même époque il publie un recueil de textes accompagnés de gravures sur bois figuratives en couleurs. Il écrit, alors qu'il était professeur au Bauhaus, un ouvrage sur les formes élémentaires des arts graphiques, publié en 1926, correspondant à une évolution de sa peinture à la même époque. 
