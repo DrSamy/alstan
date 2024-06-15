@@ -31,20 +31,40 @@ export default defineConfig({
       {
         name: "post",
         label: "Posts",
-        path: "content/posts",
+        path: "content/fr/posts",
         fields: [
           {
             type: "string",
             name: "title",
-            label: "Title",
+            label: "Titre",
             isTitle: true,
             required: true,
           },
           {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+          },
+          {
+            type: "string",
+            name: "description",
+            label: "Description",
+          },
+          {
+            type: "image",
+            name: "image",
+            label: "Image",
+          },
+          {
             type: "rich-text",
             name: "body",
-            label: "Body",
+            label: "Contenu",
             isBody: true,
+          },
+          {
+            type: "boolean",
+            name: "featured",
+            label: "Featured",
           },
         ],
       },
