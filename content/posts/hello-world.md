@@ -2,7 +2,7 @@
 title: 'Hello, World!'
 ---
 
-## Hello World!
+## Far Away!
 
 ![](/tableaux/far_away.jpg)
 
