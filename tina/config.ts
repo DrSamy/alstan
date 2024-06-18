@@ -51,20 +51,15 @@ export default defineConfig({
             label: "Description",
           },
           {
-            type: "image",
+            type: "string",
             name: "image",
-            label: "Image",
+            label: "Nom de l'image",
           },
           {
             type: "rich-text",
             name: "body",
             label: "Contenu",
             isBody: true,
-          },
-          {
-            type: "boolean",
-            name: "featured",
-            label: "Featured",
           },
         ],
       },
